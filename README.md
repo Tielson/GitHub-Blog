@@ -17,7 +17,7 @@
 
 ### How to use
 
-- To use this project, you need to clone this repository git@github.com:Tielson/DT-Money.git ,
+- To use this project, you need to clone this repository git@github.com:Tielson/GitHub-Blog.git ,
 - npm run dev
 
 ### 🛠 FRONT-END Technologies
